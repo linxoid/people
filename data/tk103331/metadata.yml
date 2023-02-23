@@ -1,19 +1,16 @@
-name: TK # 人物在网上的名称
-brief: 极客码农 # 用来与人物名称以「{name}：{brief}」的形式拼成个性化的网页标题，可选
-description: 科技不息，奋斗不止，未来无限可能。 # 一句话简介，显示在人物页头部和人物卡片上的简短介绍
-professions: # 人物职业，为了显示的完整性，建议不超过三个且总字数不超过十个字
+name: TK
+brief: 极客码农
+description: 科技不息，奋斗不止，未来无限可能。
+professions:
   - title: 工程师
-    always: false # 显示尺寸较小时隐藏
   - title: 奶爸
-    always: false # 显示尺寸较小时隐藏
-websites: # 个人网站，第一个将作为主站对待，可选
-  - title: TK # 网站标题
-    url: https://tiankai.me/ # 网址
-    description: 学习，分享，自省 # 网站简介，可选
-    feed: # 用来动态获取最新发布的内容显示在人物页，可选
-contacts: # 联系方式，可选，详见下面表格
+websites:
+  - title: TK
+    url: http://tiankai.me
+    description: 学习，分享，自省
+contacts:
   github: tk103331
   twitter: tk103331
-location: 北京 # 所在地
-banner: # 人物页头图/人物卡片背景图的额外信息，可选
-  description: Technology and Future # 图片是什么
+location: 北京
+banner:
+  description: Technology and Future
