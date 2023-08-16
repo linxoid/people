@@ -18,7 +18,7 @@
 - 视频——[哔站](https://space.bilibili.com/152919){:target="_blank"}{:rel="external nofollow"}、[YouTube](https://www.youtube.com/@ourai.l){:target="_blank"}{:rel="external nofollow"}；
 - 代码——[GitHub](https://github.com/ourai){:target="_blank"}{:rel="external nofollow"}；
 - 问答——[知乎](https://www.zhihu.com/people/ourai){:target="_blank"}{:rel="external nofollow"}；
-- 想法——[新浪微博](https://weibo.com/u/1818955207){:target="_blank"}{:rel="external nofollow"}、[即刻](https://web.okjike.com/u/0AD167DC-923C-4BE1-9BB0-B593BEAC0FE2){:target="_blank"}{:rel="external nofollow"}。
+- 想法——[新浪微博](https://weibo.com/u/1818955207){:target="_blank"}{:rel="external nofollow"}、[即刻](https://web.okjike.com/u/0AD167DC-923C-4BE1-9BB0-B593BEAC0FE2){:target="_blank"}{:rel="external nofollow"}、[Twitter](https://twitter.com/fxxkol){:target="_blank"}{:rel="external nofollow"}。
 
 ### 特色产品
 {:#featured-products}
