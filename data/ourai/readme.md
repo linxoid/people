@@ -25,7 +25,7 @@
 
 撰写高价值的付费专栏：
 
-- 欧雷的破局之路——在可言说的范围内尽量用简单的语言详细地记述我是如何突破 35 周岁中年失业困境并实现自己理想生活方式的，可到[微信公众号](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MjM5MDI2MDA5NQ==&action=getalbum&album_id=3055445934848917511&scene=126#wechat_redirect){:target="_blank"}{:rel="external nofollow"}或[小报童](https://xiaobot.net/p/2bfree){:target="_blank"}{:rel="external nofollow"}购买。
+- [破局之路](https://ourai.ws/series/road-to-the-final-goal/){:target="_blank"}{:rel="external nofollow"}——在可言说的范围内尽量用简单的语言详细地记述我是如何突破 35 周岁中年失业困境并实现自己理想生活方式的。
 
 以下为我所设计并开发的目前相对成熟的开源软件：
 
